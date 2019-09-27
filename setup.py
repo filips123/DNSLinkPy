@@ -21,7 +21,7 @@ setup(
     },
 
     install_requires = [
-        'dnspython>=1.0.0,<2.0.0',
+        'dnspython>=1.0.0,<3.0.0',
     ],
 
     extras_require = {
