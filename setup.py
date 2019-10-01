@@ -29,7 +29,7 @@ setup(
         'test': ['pytest', 'pytest-cov'],
     },
 
-    python_requires = '>= 3.5',
+    python_requires = '>= 3.4',
 
     author = 'Filip Š',
     author_email = 'projects@filips.si',

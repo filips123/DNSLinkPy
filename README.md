@@ -23,7 +23,7 @@ This package provides a simple way to get and resolve DNSLink TXT records for an
 
 ### Requirements
 
-DNSLink requires Python 3.5 or higher.
+DNSLink requires Python 3.4 or higher.
 
 ### From PyPI
 
